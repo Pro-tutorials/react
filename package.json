@@ -1,0 +1,15 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "-   [Intro](./resources/intor.md) -   [Component life cycle](.)",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
